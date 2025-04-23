@@ -225,7 +225,5 @@ st.markdown("""
 st.sidebar.markdown("---")
 st.sidebar.markdown("### About")
 st.sidebar.info(
-    "This app uses Faster Whisper, an efficient implementation of OpenAI's Whisper model to transcribe audio files to text. "
-    "The transcription quality depends on the model size and audio quality. "
-    "For better results with non-English content, try selecting the specific language."
+    "This app is made by Rohin Pithwa."
 )
